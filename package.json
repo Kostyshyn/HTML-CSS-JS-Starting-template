@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mariotab/initial.git"
+    "url": "git+https://github.com/Kostyshyn/HTML-CSS-JS-Starting-template.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mariotab/initial/issues"
+    "url": "https://github.com/Kostyshyn/HTML-CSS-JS-Starting-template/issues"
   },
-  "homepage": "https://github.com/mariotab/initial#readme",
+  "homepage": "https://github.com/Kostyshyn/HTML-CSS-JS-Starting-template#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-connect": "^5.0.0",
