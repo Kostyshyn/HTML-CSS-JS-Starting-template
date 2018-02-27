@@ -1,0 +1,23 @@
+{
+  "name": "initial",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Kostyshyn <kostyshyn@ua.fm>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/mariotab/initial",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "bootstrap": "^4.0.0",
+    "underscore": "^1.8.3"
+  }
+}

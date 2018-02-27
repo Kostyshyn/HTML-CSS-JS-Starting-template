@@ -1,2 +1,1 @@
-# HTML-CSS-JS-Starting-template
-HTML, CSS, JS Starting template for beginners
+[Web page](https://mariotab.github.io/initial/app/index.html)
